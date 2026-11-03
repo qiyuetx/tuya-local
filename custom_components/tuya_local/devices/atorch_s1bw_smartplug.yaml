@@ -243,7 +243,11 @@ entities:
           - dps_val: original
             value: Original
           - dps_val: measurement
-            value: Measurement
+            value: Big font
+          - dps_val: calendar
+            value: Time calendar
+          - dps_val: screen_off
+            value: Screen off
   - entity: select
     category: config
     name: Display
